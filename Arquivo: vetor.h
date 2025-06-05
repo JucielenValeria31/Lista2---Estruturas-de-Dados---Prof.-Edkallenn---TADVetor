@@ -1,6 +1,6 @@
 /* 
 **    Função : Interface do TAD Vetor de Inteiros
-**    Autor : Jucieélen Valéria Souza / Rafaella Santos do Nascimento
+**    Autor : Jucieélen Valéria Souza 
 **    Turma : P2 A
 **    Data  : 07/06/2025
 **    Observações: Definição do TAD e das operações
